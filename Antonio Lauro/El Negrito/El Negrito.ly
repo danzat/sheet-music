@@ -3,7 +3,6 @@
     composer = "Antonio Lauro"
 }
 {
-    
     \key c \major
     \time 3/4
     r8 e'' f'' fis'' a'' g'' |
